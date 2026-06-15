@@ -1,7 +1,7 @@
 Pandas Practice
 =================================
 
-Repository for pandas practice exercises and examples from Keith Galli's tutorial.
+Repository for pandas practice exercises and examples
 
 Contains practice files used in the local workspace.
 
