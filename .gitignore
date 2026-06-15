@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python temporary files
+*.log
+*.tmp
+tempCodeRunnerFile.py
