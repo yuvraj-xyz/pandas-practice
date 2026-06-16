@@ -5,6 +5,7 @@ df = pd.read_csv("pokemon_data.csv")
 
 # print(df.head(5))
 
+
 # Read Headers
 # print(df.columns)
 
